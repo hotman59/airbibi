@@ -1,0 +1,94 @@
+body {
+  background-color: #efefed;​
+}
+#encadrer {
+  /*-------- ENCART MENU ACCUEIL ---*/
+  border: 1px solid white;
+}
+​ #textaccueil {
+  font-family: sans-serif;
+  font-variant: normal;
+  font-size: 5em;
+}
+​ #ctahome {
+  color: white;
+  margin: 5px;
+  margin-top: 10px;
+  background-color: rgba(237, 239, 237, 0.3);
+}
+​ ​ #ctahome:hover {
+  /*-------- hover sur cta IMPORTANT COLLER LE :HOVER A LA CLASSE ---*/
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+}
+#navaccueil {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 30px;
+}
+#ctaarrivee {
+  margin-left: 0px;
+}
+​ ​
+/*--/////////////////////////  FIRST ROW  /////////////////////////////////////////////////*/
+
+​ #firstrow {
+  margin-top: 4%;
+}
+#firstcontent {
+  background-color: white;
+  height: 343px;
+}
+#firstimage {
+  width: 52%;
+  /*-------- calcul % de la col avec inspecteur d element et
+
+    ajustement de 53 a 52 % ---*/
+  margin-left: 11%;
+}
+​
+/*--/////////////////////////  SECOND ROW  ////////////////////////////////////////////////*/
+
+​ h3 {
+  color: rgb(93, 91, 91);
+  font-size: 2.3em;
+  margin-left: 4%;
+  margin-top: 5%;
+  margin-bottom: 1%;
+  font-weight: 550;
+}
+h5 {
+  font-weight: normal;
+  color: rgb(103, 103, 103);
+}
+#thirdrow {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+#img_londre{
+  height: 30%;
+  width: 100%;
+}
+
+.img_3{
+  width: 100%;
+  height: 100%;
+  margin-bottom: 5%;
+}
+/*--/////////////////////////  THIRD ROW  ////////////////////////////////////////////////*/
+
+#fourthrow {
+  margin-left: 37.5%;
+  margin-right: auto;
+  margin-top: 3%;
+}
+​ #fourthcta {
+  width: 320px;
+  padding: 11px;
+  font-size: 1.1em;
+  font-weight: 600;
+  color: rgb(84, 84, 84);
+}
+​ #sixthcontent {
+  margin-left: 5%;
+}
